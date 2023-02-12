@@ -43,6 +43,6 @@ Após a geração dos datasets tratados é possivel a execução dos seguintes s
 4. run_boxplot.R
 
 
-Estes geração as tabelas, barplots e boxplots com os dados utilizados no artigos.  Todas as imagens e tabelas geradas, serão armazenadas em pastas geradas dentro projeto, com o respectivo nome do script e estas serão subdivididas pelas categorias ou áreas dos cursos.
+Estes geram as tabelas, barplots e boxplots com os dados utilizados no artigos.  Todas as imagens e tabelas criadas pelos scripts, serão armazenadas em pastas geradas dentro próprio projeto, com o respectivo nome do script e estas serão subdivididas pelas categorias ou áreas dos cursos.
 
 OBS: O script run_tables irá gerar as tabelas pelas categorias enquanto o script run_tables_area irá gerar as tabelas pelas áreas de conhecimento.
