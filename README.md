@@ -1,5 +1,5 @@
 
-Projeto com scripts utilizados para geração dos dados utilizados no artigo: 
+Projeto com scripts para geração dos dados utilizados no artigo: 
 Análise descritiva dos Microdados do Censo da Educação Superior do Inep para cursos de Tecnologia da Informação e Comunicação no Brasil - Um panorama 2015-2021
 
 ## Pré-requisitos
