@@ -1,17 +1,12 @@
 
 ### Defina o ano de analise
-year <- "2017"
+year <- "2021"
 
 ### pacotes
 source("Instalacao_de_pacotes.R")
 
 ### Carregando CSV
-source("scripts-tables/Preparacao_dados_tabelas.R")
-
-#micro_cursos <- micro_cursos %>%
-#  filter(
-#    TP_MODALIDADE_ENSINO == '2'
-#)
+source("Preparacao_dados_tabelas.R")
 
 ### Importação do arquivo
 fileName <- sprintf("cursos-%s.RData",year)
